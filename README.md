@@ -6,11 +6,11 @@ As a data analyst for Rockbuster Stealth LLC's business intelligence department,
 
 # Data
 Data used for this project was made up of the following tables:
-## Fact Tables
+### Fact Tables
 - Payment
 - Rental
 
-## Dimension Tables
+### Dimension Tables
 - Store
 - Staff
 - Address
