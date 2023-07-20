@@ -24,3 +24,6 @@ Data used for this project was made up of the following tables:
 - Language
 - Film_Actor
 - Actor
+
+# Data Source
+Data was provided by Career Foundry through their project. Data was titled "Rockbuster data set."
